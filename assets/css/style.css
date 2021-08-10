@@ -1,0 +1,104 @@
+body {
+    background-image: url('../images/homebg.jpeg');
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+.container-fluid {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.pfp {
+    border-radius: 50%;
+    height: 30vh;
+    width: 30vh;
+    border: 5px solid black;
+}
+
+.name {
+    color: black;
+    font-family: 'DM Serif Text';
+    font-size: 50px;
+    font-weight: 860;
+    letter-spacing: 2px;
+    margin-top: 10px;
+}
+
+#biography {
+    border: 3px dashed;
+    border-radius: 2%;
+    padding: 8px;
+    box-shadow: 8px 10px #9f6c66;
+    width: 60%;
+    color: black;
+    background-color: white;
+    font-size: 22;
+    margin-top: 30px;
+}
+
+.facts {
+    font-family: 'DM Serif Text';
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+.contact {
+    font-family: 'DM Serif Text';
+    font-weight: 860;
+    letter-spacing: 2px;
+}
+
+#socials ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 22;
+    display: flex;
+}
+
+#socials li {
+    position: relative;
+  }
+  
+#socials li + li {
+    margin-left: 40px;
+  }
+
+#socials a, #socials a:focus {
+    padding: 15;
+    font-size: 18;
+    font-weight: 500;
+    color: black;
+    text-decoration: none;
+}
+
+#socials a:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 3px;
+    bottom: 1.5px;
+    left: 36;
+    background-color: #D11D27;
+    visibility: hidden;
+    transition: 0.3s ease-in-out 0s;
+  }
+
+  #socials a:hover:before, #socials li:hover > a:before, #socials .active:before {
+    visibility: visible;
+    width: 30px;
+  }
+  
+#socials a:hover, #socials .active, #socials .active:focus, #socials li:hover > a {
+    color: rgb(95, 95, 84);
+}
+.extra {
+    font-family: 'DM Serif Text';
+}
+.cp-text {
+    font-family: 'DM Serif Text';
+    font-weight: 500;
+}
