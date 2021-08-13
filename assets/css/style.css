@@ -1,5 +1,5 @@
 body {
-    background-image: url('../images/homebg.jpeg');
+    background-image: background-image: radial-gradient(circle, #d4896a, #d88688, #cd89a5, #b791b9, #9f9ac1, #a7a1c3, #afa9c6, #b7b0c8, #d2bdcc, #e4cdd1, #f0dfdc, #f9f2ec);
     background-attachment: fixed;
     background-size: cover;
     font-family: 'Montserrat';
