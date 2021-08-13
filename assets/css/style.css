@@ -29,15 +29,16 @@ body {
 }
 
 #biography {
+    background: rgba( 255, 255, 255, 0.40 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    -webkit-backdrop-filter: blur(20.0px);
+    border-radius: 10px;
     border: 3px dashed;
-    border-radius: 2%;
-    padding: 8px;
-    box-shadow: 8px 10px #9f6c66;
-    width: 64%;
+    width: 60%;
     color: black;
-    background-color: white;
     font-size: 22;
     margin-top: 30px;
+    text-align: center;
 }
 
 .facts {
