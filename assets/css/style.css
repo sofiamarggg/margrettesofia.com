@@ -23,7 +23,7 @@ body {
     color: black;
     font-size: 50px;
     font-weight: 790;
-    letter-spacing: 4.5px;
+    letter-spacing: 4px;
     margin-top: 10px;
 }
 
@@ -47,7 +47,7 @@ body {
 
 .contact {
     font-weight: 790;
-    letter-spacing: 4.5px;
+    letter-spacing: 4px;
 }
 
 #socials ul {
