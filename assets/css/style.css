@@ -21,10 +21,9 @@ body {
 
 .name {
     color: black;
-    font-family: 'DM Serif Text';
     font-size: 50px;
-    font-weight: 900;
-    letter-spacing: 2px;
+    font-weight: 790;
+    letter-spacing: 4.5px;
     margin-top: 10px;
 }
 
@@ -42,15 +41,13 @@ body {
 }
 
 .facts {
-    font-family: 'DM Serif Text';
-    font-weight: 800;
-    letter-spacing: 2px;
+    font-weight: 700;
+    letter-spacing: 1px;
 }
 
 .contact {
-    font-family: 'DM Serif Text';
-    font-weight: 860;
-    letter-spacing: 2px;
+    font-weight: 790;
+    letter-spacing: 4.5px;
 }
 
 #socials ul {
@@ -96,10 +93,6 @@ body {
 #socials a:hover, #socials .active, #socials .active:focus, #socials li:hover > a {
     color: rgb(95, 95, 84);
 }
-.extra {
-    font-family: 'DM Serif Text';
-}
 .cp-text {
-    font-family: 'DM Serif Text';
     font-weight: 500;
 }
