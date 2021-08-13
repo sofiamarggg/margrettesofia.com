@@ -103,7 +103,7 @@ body {
     text-align: center;
     font-weight: 500;
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 680px) {
     .name {
         height: 100vh;
         display: flex;
