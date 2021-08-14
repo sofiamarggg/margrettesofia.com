@@ -16,7 +16,8 @@ body {
     border-radius: 50%;
     height: 30vh;
     width: 30vh;
-    border: 5px solid black;
+    border: 2.5px solid black;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
 }
 
 .name {
