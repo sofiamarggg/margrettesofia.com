@@ -105,13 +105,10 @@ body {
 }
 @media only screen and (max-width: 900px) {
     .name {
-        height: 100vh;
+        height: 90vh;
         display: flex;
         align-items: center;
         justify-content: center;
         text-align: center;
-    }
-    .pfp {
-        margin-top: 30px;
     }
 }
