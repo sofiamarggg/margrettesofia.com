@@ -1,9 +1,7 @@
-# Personal Profile
-This is my personal website based on my learning and experiences doing courses from freeCodeCamp.
+# personal profile
+this is my first website from scratch after doing the Responsive Web Design course(s) on freeCodeCamp. will improve this some more! :)
 
-I like to learn web development and programming in general and this is my avenue to expose my learnings.
-
-## References and Guides
+## references and guides
 - freeCodeCamp: https://www.freecodecamp.org/
 - sean o'connor: https://seanoconn.org/
 - Cole Townsend: https://twnsnd.co/
